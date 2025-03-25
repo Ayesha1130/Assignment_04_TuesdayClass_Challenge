@@ -30,14 +30,6 @@ This project includes the following key features:
 4. **Input Validation:** Ensures the player inputs only valid responses (either 'higher' or 'lower').
 5. **Performance Feedback:** After all rounds are played, the player is given feedback based on their score.
 
-## Installation
-
-To play the game, simply clone the repository and run the Python script:
-
-```bash
-git clone https://github.com/yourusername/high-low-game.git
-cd high-low-game
-python high_low_game.py
 
 
 
